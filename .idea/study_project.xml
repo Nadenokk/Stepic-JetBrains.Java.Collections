@@ -1856,7 +1856,10 @@
                       <option name="multipleChoice" value="true" />
                       <option name="name" value="Quiz" />
                       <option name="selectedVariants">
-                        <list />
+                        <list>
+                          <option value="1" />
+                          <option value="4" />
+                        </list>
                       </option>
                       <option name="status" value="Solved" />
                       <option name="stepId" value="294491" />
